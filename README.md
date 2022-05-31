@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5e1d528-e14c-4629-938f-6933bcd1737c/deploy-status)](https://app.netlify.com/sites/landex-ui-e6f7c2/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
