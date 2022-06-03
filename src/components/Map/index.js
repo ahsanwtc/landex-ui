@@ -14,7 +14,7 @@ const Map = ({ transformAndSetData, setCenter, setZoom }) => {
       const loader = new Loader({
         apiKey: process.env.REACT_APP_GOOGLE_MAP_API_KEY,
         version: "weekly",
-        libraries: [/*"places"*/, 'drawing']
+        libraries: ['drawing']
       });
       
       const mapOptions = {
